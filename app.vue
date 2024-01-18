@@ -97,7 +97,7 @@ useSeoMeta({
   ogTitle: 'Green Abes',
   description: 'Empowering communities through gifts and trees.',
   ogDescription: 'Empowering communities through gifts and trees.',
-  ogImage: '/green-logo.svg',
-  twitterCard: '/green-logo.svg',
+  ogImage: '/green-abes-logo-og.svg',
+  twitterCard: '/green-abes-logo-og.svg',
 })
 </script>
