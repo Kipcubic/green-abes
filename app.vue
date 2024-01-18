@@ -82,8 +82,7 @@
 
 <script setup>
 import { ref } from 'vue'
-import { Dialog, DialogPanel } from '@headlessui/vue'
-import { Bars3Icon, XMarkIcon } from '@heroicons/vue/24/outline'
+
 
 const navigation = [
   { name: 'About us', href: '#' },
@@ -93,4 +92,12 @@ const navigation = [
 ]
 
 const mobileMenuOpen = ref(false)
+useSeoMeta({
+  title: 'Green Abes',
+  ogTitle: 'Green Abes',
+  description: 'Empowering communities through gifts and trees.',
+  ogDescription: 'Empowering communities through gifts and trees.',
+  ogImage: '/green-logo.svg',
+  twitterCard: '/green-logo.svg',
+})
 </script>
