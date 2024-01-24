@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-green-100/2 py-24 sm:py-16">
+    <div class="bg-green-100/2 py-12 sm:py-8">
       <div class="relative isolate">
         <div class="mx-auto max-w-7xl sm:px-6 lg:px-8">
           <div class="mx-auto flex max-w-2xl flex-col gap-16 bg-white/5 px-6 py-16 ring-1 ring-white/10 sm:rounded-3xl sm:p-8 lg:mx-0 lg:max-w-none lg:flex-row lg:items-center lg:py-20 xl:gap-x-20 xl:px-20">
