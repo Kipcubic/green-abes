@@ -79,4 +79,13 @@ const navigation = [
 { name: 'About us', href: '' },
 { name: 'Gallery', href: '' },
 ]
+
+useSeoMeta({
+  title: 'Green Abes',
+  ogTitle: 'Green Abes',
+  description: 'Empowering communities through gifts and trees.',
+  ogDescription: 'Empowering communities through gifts and trees.',
+  ogImage: '/logo.svg',
+  twitterCard: '/logo.svg',
+})
 </script>
